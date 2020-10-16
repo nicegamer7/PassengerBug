@@ -1,0 +1,11 @@
+name: PassengerBug
+main: xyz.ng7.passengerbug.PassengerBug
+version: 1.0.0-SNAPSHOT
+api-version: 1.15
+commands:
+  demo:
+    description: Demonstrates the Passenger Bug.
+    usage: /<command>
+  demo2:
+    description: A nicer way of teleporting vehicles.
+    usage: /<command>
